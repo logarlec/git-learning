@@ -1,4 +1,5 @@
 # learning-git
 It is a study repository to practice git system.
 It is a study repository to practice git hub system.
-https://images.search.yahoo.com/images/view;_ylt=Awrhdc2QmxpmJoIoHuqJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2JlY2FmMTQzYjUyMTRlYjE3ZjRhZjQ3YzQ1ZGE1NzQ5BGdwb3MDNARpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dgit%2Bthumbnail%26type%3DE210HU91105G0%26fr%3Dmcafee_uninternational%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D4&w=800&h=450&imgurl=thecodex.me%2Fstatic%2F3460a12f592fd1097badbd8051faaf7f%2Fee604%2Fgithubintro_1_1ffebc94ad.png&rurl=https%3A%2F%2Fthecodex.me%2Ftopics%2Fintroduction-to-git-and-git-hub%2F&size=+7.9KB&p=git+thumbnail&oid=becaf143b5214eb17f4af47c45da5749&fr2=piv-web&fr=mcafee_uninternational&tt=Introduction+to+Git+and+GitHub+%7C+The+Codex&b=0&ni=21&no=4&ts=&tab=organic&sigr=ZTGFwnaW0jMQ&sigb=EnE0cSERUL.f&sigi=n21W4gEtyOYJ&sigt=FrPIIebzhlbT&.crumb=fhzURbcbPtf&fr=mcafee_uninternational&fr2=piv-web&type=E210HU91105G0
+![image](https://github.com/logarlec/git-learning/assets/9799359/931c0d82-f84a-454a-9225-0bfa74fb9f5d)
+
