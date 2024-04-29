@@ -3,9 +3,9 @@ total 12
 -rw-r--r-- 1 DELL 197121  87 ápr.   10 16:18 index.js
 -rw-r--r-- 1 DELL 197121  12 jún.    8  2023 index.xml
 -rw-r--r-- 1 DELL 197121   0 ápr.   26 17:00 lista.txt
--rw-r--r-- 1 GEORGE 197121   9 jún.    7  2023 main.css
+-rw-r--r-- 1 ALEX 197121   9 jún.    7  2023 main.css
 -rw-r--r-- 1 DELL 197121  23 jún.    8  2023 main.go
--rw-r--r-- 1 DELL 197121  23 jún.    8  2023 main2.go
+-rw-r--r-- 1 ALEX 197121  23 jún.    8  2023 main2.go
 -rw-r--r-- 1 DELL 197121  25 ápr.   10 16:43 main3.go
 -rw-r--r-- 1 GEORGE 197121  13 ápr.   10 18:02 main-feature.js
 -rw-r--r-- 1 DELL 197121 120 ápr.   10 16:39 README.md
